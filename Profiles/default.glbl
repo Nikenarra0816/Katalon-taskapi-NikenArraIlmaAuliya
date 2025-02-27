@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibmlrZW4iLCJzdWIiOiJVc2VyIiwianRpIjoiY2MzZDNmZTgtZmVjNS00ZmM5LThmOGUtOTI1YzJjMjc3MDdjIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsInVzZXJJZCI6IjUyMDAiLCJleHAiOjE3NDA3Mjk1ODcsImlzcyI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjQ0MzY0LyJ9.pN6ngtZAe5rEp4A9HsbgTrnBxV9w60uoyYwwNxiEynQ'</initValue>
+      <name>auth_token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
